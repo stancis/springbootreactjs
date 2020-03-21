@@ -36,11 +36,6 @@
       <artifactId>spring-boot-starter-jetty</artifactId>
     </dependency>
 
-<!--    <dependency>-->
-<!--      <groupId>org.thymeleaf</groupId>-->
-<!--      <artifactId>thymeleaf-spring5</artifactId>-->
-<!--    </dependency>-->
-
     <dependency>
       <groupId>org.webjars</groupId>
       <artifactId>bootstrap</artifactId>
@@ -58,23 +53,6 @@
       <artifactId>spring-boot-devtools</artifactId>
       <optional>true</optional>
     </dependency>
-
-    <!--<dependency>-->
-      <!--<groupId>org.springframework.boot</groupId>-->
-      <!--<artifactId>spring-boot-starter-test</artifactId>-->
-      <!--<scope>test</scope>-->
-      <!--<exclusions>-->
-        <!--<exclusion>-->
-          <!--<groupId>org.junit.vintage</groupId>-->
-          <!--<artifactId>junit-vintage-engine</artifactId>-->
-        <!--</exclusion>-->
-      <!--</exclusions>-->
-    <!--</dependency>-->
-    <!--<dependency>-->
-      <!--<groupId>org.springframework.security</groupId>-->
-      <!--<artifactId>spring-security-test</artifactId>-->
-      <!--<scope>test</scope>-->
-    <!--</dependency>-->
   </dependencies>
 
   <build>
